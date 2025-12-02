@@ -1,5 +1,5 @@
 p align='center'>
-  <b>Hi 👋, I'm flavin</b><br>
+  <b>Hi 👋, I'm lucas</b><br>
   <a href="https://discord.gg/873">Discord</a> |
   <a href="https://www.youtube.com/@flavinxqz">YouTube</a> |
   <a href="">Web</a> |
@@ -36,4 +36,4 @@ Languages  :   py
 
 
 ------------												
-- <p align="center"> Hi, I’m @flavin/lucas
+- <p align="center"> Hi, I’m @lucas
